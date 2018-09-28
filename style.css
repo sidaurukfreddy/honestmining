@@ -1,4 +1,32 @@
-.no-padding {
-  padding-left: 0;
-  padding-right: 0;
+.header-front-page 
+{   
+  background-image: url('image/header-1.jpg'); 
+ 	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	height:798px;
+	width:100%;
+
 }
+
+img {
+    max-width: 100%; 
+}
+
+.indosystem {
+	padding-top: 30%;
+	margin-right: 10%;
+	color:#ffffff;
+}
+
+.div-hiring  
+{
+	padding-top: 35%;  
+	color:#ffffff;
+}
+
+footer {
+	height:50px;
+	background-color: #000000;
+}
+

@@ -65,5 +65,9 @@ div.header-hiring h3 {
 footer{
 	background-color: #000000;
 	height:50px;
+	width: 100%;
+ 	position: absolute;
+  left: 0;
+  right: 0;
 }
  
